@@ -30,7 +30,6 @@ jobs:
         with:
           context: .
           file: ./Dockerfile
-	  platforms: linux/arm64/v8
           push: true
           tags: ${{ secrets.DOCKER_HUB_USERNAME }}/ukmcs:latest
           cache-from: type=registry,ref=${{ secrets.DOCKER_HUB_USERNAME }}/ukmcs:buildcache
