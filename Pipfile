@@ -11,6 +11,7 @@ scikit-learn = "*"
 pyopenssl = "*"
 wheel = "*"
 gunicorn = "*"
+flask-cors = "*"
 
 [dev-packages]
 

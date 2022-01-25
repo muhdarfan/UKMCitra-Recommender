@@ -1,7 +1,10 @@
 from flask import Flask, jsonify, request, abort
+from flask_cors import CORS, cross_origin
 from .engine import Engine
 
 app = Flask(__name__)
+cors = CORS(app)
+app.config['CORS_HEADERS'] = 'Content-Type'
 engine = Engine('./data/student_courses_dataset.json')
 
 @app.route("/")
@@ -9,11 +12,13 @@ def home():
     return "Hello!"
 
 @app.route('/generate_model')
+@cross_origin()
 def generateModel():
     engine.generate_model()
     return "Okay...."
 
 @app.route('/api/getrecommendation', methods=['POST'])
+@cross_origin()
 def recommend():
     params = request.form
 
