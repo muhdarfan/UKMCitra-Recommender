@@ -3,6 +3,7 @@ version: '3'
 services:
   flask:
     build: ./flask
+    platform: linux/arm64/v8
     ports:
       - "5000"
     expose:
