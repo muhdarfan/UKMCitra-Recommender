@@ -12,7 +12,6 @@ class Engine:
 
         self.load_model()
         print('Engine has been loaded successfully!')
-        
 
     def generate_model(self):
         try:

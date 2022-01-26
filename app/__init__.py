@@ -26,12 +26,16 @@ def recommend():
     program = params.get('program')
     semester = params.get('semester')
     session = params.get('session')
+    needs = params.get('n')
 
     if len(params) < 1 or (not matric or not program or not semester or not session):
         abort(400)
 
+    if (not needs):
+        needs = 5
+
     feature = f'{program} {semester} {session}'
-    recommendations = engine.get_recommendations(feature)
+    recommendations = engine.get_recommendations(feature, needs)
 
     '''
     courses = []
