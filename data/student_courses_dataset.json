@@ -1,527 +1,1472 @@
 [
     {
-        "matric_no": "A117658",
-        "program": "KA03",
-        "semester": "1",
-        "session": "20212022",
-        "course_code": "LMCX2565"
-    },
-    {
-        "matric_no": "A117658",
-        "program": "KA03",
-        "semester": "2",
-        "session": "20212022",
-        "course_code": "LMCX1631"
-    },
-    {
-        "matric_no": "A117658",
-        "program": "KA03",
-        "semester": "2",
-        "session": "20182019",
-        "course_code": "LMCX3848"
-    },
-    {
-        "matric_no": "A141207",
-        "program": "KA02",
-        "semester": "1",
-        "session": "20212022",
-        "course_code": "LMCR2482"
-    },
-    {
-        "matric_no": "A141207",
-        "program": "KA02",
-        "semester": "2",
-        "session": "20182019",
-        "course_code": "LMCX1195"
-    },
-    {
-        "matric_no": "A141207",
-        "program": "KA02",
-        "semester": "2",
-        "session": "20192020",
-        "course_code": "LMCX3546"
-    },
-    {
-        "matric_no": "A148162",
-        "program": "KC04",
-        "semester": "1",
-        "session": "20192020",
-        "course_code": "LMCX1660"
-    },
-    {
-        "matric_no": "A148162",
+        "matric_no": "A187907",
         "program": "KC04",
         "semester": "1",
         "session": "20182019",
-        "course_code": "LMCX2088"
+        "course_code": "LMCB1432"
     },
     {
-        "matric_no": "A148162",
+        "matric_no": "A187907",
+        "program": "KC04",
+        "semester": "1",
+        "session": "20212022",
+        "course_code": "LMCB1432"
+    },
+    {
+        "matric_no": "A124184",
+        "program": "KC03",
+        "semester": "2",
+        "session": "20212022",
+        "course_code": "LMCB1432"
+    },
+    {
+        "matric_no": "A124184",
+        "program": "KC03",
+        "semester": "1",
+        "session": "20192020",
+        "course_code": "LMCB1432"
+    },
+    {
+        "matric_no": "A123736",
+        "program": "FE03",
+        "semester": "2",
+        "session": "20182019",
+        "course_code": "LMCA1432"
+    },
+    {
+        "matric_no": "A123736",
+        "program": "FE03",
+        "semester": "2",
+        "session": "20192020",
+        "course_code": "LMCA1442"
+    },
+    {
+        "matric_no": "A144868",
         "program": "KC04",
         "semester": "2",
-        "session": "20212022",
-        "course_code": "LMCX1151"
+        "session": "20182019",
+        "course_code": "LMCB1432"
     },
     {
-        "matric_no": "A148817",
-        "program": "ST03",
+        "matric_no": "A144868",
+        "program": "KC04",
         "semester": "2",
         "session": "20182019",
-        "course_code": "LMCX2083"
+        "course_code": "LMCA1432"
     },
     {
-        "matric_no": "A148817",
-        "program": "ST03",
-        "semester": "2",
-        "session": "20182019",
-        "course_code": "LMCR2482"
-    },
-    {
-        "matric_no": "A148817",
-        "program": "ST03",
-        "semester": "1",
-        "session": "20192020",
-        "course_code": "LMCX1151"
-    },
-    {
-        "matric_no": "A104015",
-        "program": "FE04",
-        "semester": "1",
-        "session": "20182019",
-        "course_code": "LMCX3736"
-    },
-    {
-        "matric_no": "A104015",
-        "program": "FE04",
-        "semester": "1",
-        "session": "20192020",
-        "course_code": "LMCX3546"
-    },
-    {
-        "matric_no": "A104015",
-        "program": "FE04",
-        "semester": "2",
-        "session": "20202021",
-        "course_code": "LMCX3736"
-    },
-    {
-        "matric_no": "A168464",
-        "program": "KC03",
-        "semester": "2",
-        "session": "20212022",
-        "course_code": "LMCX3762"
-    },
-    {
-        "matric_no": "A168464",
-        "program": "KC03",
-        "semester": "1",
-        "session": "20202021",
-        "course_code": "LMCX3546"
-    },
-    {
-        "matric_no": "A168464",
-        "program": "KC03",
-        "semester": "1",
-        "session": "20182019",
-        "course_code": "LMCX2088"
-    },
-    {
-        "matric_no": "A165378",
-        "program": "KC02",
-        "semester": "2",
-        "session": "20212022",
-        "course_code": "LMCX3762"
-    },
-    {
-        "matric_no": "A165378",
-        "program": "KC02",
-        "semester": "2",
-        "session": "20182019",
-        "course_code": "LMCX1631"
-    },
-    {
-        "matric_no": "A165378",
-        "program": "KC02",
-        "semester": "1",
-        "session": "20202021",
-        "course_code": "LMCX1554"
-    },
-    {
-        "matric_no": "A127302",
-        "program": "FE01",
-        "semester": "1",
-        "session": "20212022",
-        "course_code": "LMCX3862"
-    },
-    {
-        "matric_no": "A127302",
-        "program": "FE01",
-        "semester": "2",
-        "session": "20202021",
-        "course_code": "LMCX1151"
-    },
-    {
-        "matric_no": "A127302",
-        "program": "FE01",
-        "semester": "1",
-        "session": "20212022",
-        "course_code": "LMCX1554"
-    },
-    {
-        "matric_no": "A127485",
-        "program": "KA04",
-        "semester": "2",
-        "session": "20202021",
-        "course_code": "LMCX3762"
-    },
-    {
-        "matric_no": "A127485",
-        "program": "KA04",
-        "semester": "2",
-        "session": "20212022",
-        "course_code": "LMCR2482"
-    },
-    {
-        "matric_no": "A127485",
-        "program": "KA04",
-        "semester": "2",
-        "session": "20182019",
-        "course_code": "LMCX1195"
-    },
-    {
-        "matric_no": "A112197",
-        "program": "KA03",
-        "semester": "2",
-        "session": "20212022",
-        "course_code": "LMCX2565"
-    },
-    {
-        "matric_no": "A112197",
-        "program": "KA03",
-        "semester": "2",
-        "session": "20182019",
-        "course_code": "LMCX3862"
-    },
-    {
-        "matric_no": "A112197",
-        "program": "KA03",
-        "semester": "1",
-        "session": "20202021",
-        "course_code": "LMCX1660"
-    },
-    {
-        "matric_no": "A122784",
-        "program": "KC01",
-        "semester": "1",
-        "session": "20202021",
-        "course_code": "LMCX3530"
-    },
-    {
-        "matric_no": "A122784",
-        "program": "KC01",
-        "semester": "2",
-        "session": "20202021",
-        "course_code": "LMCX1631"
-    },
-    {
-        "matric_no": "A122784",
-        "program": "KC01",
-        "semester": "2",
-        "session": "20212022",
-        "course_code": "LMCX3762"
-    },
-    {
-        "matric_no": "A195888",
-        "program": "ST04",
-        "semester": "2",
-        "session": "20182019",
-        "course_code": "LMCX3546"
-    },
-    {
-        "matric_no": "A195888",
-        "program": "ST04",
-        "semester": "1",
-        "session": "20202021",
-        "course_code": "LMCX3862"
-    },
-    {
-        "matric_no": "A195888",
-        "program": "ST04",
-        "semester": "2",
-        "session": "20202021",
-        "course_code": "LMCX1554"
-    },
-    {
-        "matric_no": "A198990",
-        "program": "ST02",
-        "semester": "1",
-        "session": "20182019",
-        "course_code": "LMCX3848"
-    },
-    {
-        "matric_no": "A198990",
-        "program": "ST02",
-        "semester": "2",
-        "session": "20202021",
-        "course_code": "LMCX3530"
-    },
-    {
-        "matric_no": "A198990",
-        "program": "ST02",
-        "semester": "2",
-        "session": "20212022",
-        "course_code": "LMCX2088"
-    },
-    {
-        "matric_no": "A151188",
-        "program": "FE02",
-        "semester": "2",
-        "session": "20202021",
-        "course_code": "LMCX2565"
-    },
-    {
-        "matric_no": "A151188",
-        "program": "FE02",
-        "semester": "2",
-        "session": "20182019",
-        "course_code": "LMCX2565"
-    },
-    {
-        "matric_no": "A151188",
-        "program": "FE02",
-        "semester": "1",
-        "session": "20182019",
-        "course_code": "LMCX3530"
-    },
-    {
-        "matric_no": "A167473",
-        "program": "KA01",
-        "semester": "2",
-        "session": "20182019",
-        "course_code": "LMCX3862"
-    },
-    {
-        "matric_no": "A167473",
-        "program": "KA01",
-        "semester": "2",
-        "session": "20202021",
-        "course_code": "LMCX3530"
-    },
-    {
-        "matric_no": "A167473",
-        "program": "KA01",
-        "semester": "1",
-        "session": "20182019",
-        "course_code": "LMCX3862"
-    },
-    {
-        "matric_no": "A197128",
-        "program": "FE04",
-        "semester": "1",
-        "session": "20192020",
-        "course_code": "LMCX3546"
-    },
-    {
-        "matric_no": "A197128",
-        "program": "FE04",
-        "semester": "1",
-        "session": "20192020",
-        "course_code": "LMCX3762"
-    },
-    {
-        "matric_no": "A197128",
-        "program": "FE04",
-        "semester": "1",
-        "session": "20182019",
-        "course_code": "LMCX1195"
-    },
-    {
-        "matric_no": "A173583",
-        "program": "KC02",
-        "semester": "1",
-        "session": "20182019",
-        "course_code": "LMCX1151"
-    },
-    {
-        "matric_no": "A173583",
-        "program": "KC02",
-        "semester": "2",
-        "session": "20182019",
-        "course_code": "LMCX1660"
-    },
-    {
-        "matric_no": "A173583",
-        "program": "KC02",
-        "semester": "2",
-        "session": "20212022",
-        "course_code": "LMCX3530"
-    },
-    {
-        "matric_no": "A155272",
-        "program": "KA04",
-        "semester": "1",
-        "session": "20212022",
-        "course_code": "LMCX1554"
-    },
-    {
-        "matric_no": "A155272",
-        "program": "KA04",
-        "semester": "1",
-        "session": "20182019",
-        "course_code": "LMCR2482"
-    },
-    {
-        "matric_no": "A155272",
-        "program": "KA04",
-        "semester": "2",
-        "session": "20192020",
-        "course_code": "LMCX1843"
-    },
-    {
-        "matric_no": "A191856",
-        "program": "FE04",
-        "semester": "1",
-        "session": "20182019",
-        "course_code": "LMCX2083"
-    },
-    {
-        "matric_no": "A191856",
-        "program": "FE04",
-        "semester": "1",
-        "session": "20192020",
-        "course_code": "LMCX3546"
-    },
-    {
-        "matric_no": "A191856",
-        "program": "FE04",
-        "semester": "2",
-        "session": "20212022",
-        "course_code": "LMCX3848"
-    },
-    {
-        "matric_no": "A108035",
-        "program": "KA02",
-        "semester": "1",
-        "session": "20212022",
-        "course_code": "LMCX3736"
-    },
-    {
-        "matric_no": "A108035",
-        "program": "KA02",
-        "semester": "2",
-        "session": "20182019",
-        "course_code": "LMCX3762"
-    },
-    {
-        "matric_no": "A108035",
-        "program": "KA02",
-        "semester": "2",
-        "session": "20202021",
-        "course_code": "LMCX3862"
-    },
-    {
-        "matric_no": "A188261",
-        "program": "ST01",
-        "semester": "1",
-        "session": "20192020",
-        "course_code": "LMCX3762"
-    },
-    {
-        "matric_no": "A188261",
-        "program": "ST01",
-        "semester": "2",
-        "session": "20202021",
-        "course_code": "LMCX3546"
-    },
-    {
-        "matric_no": "A188261",
-        "program": "ST01",
-        "semester": "1",
-        "session": "20212022",
-        "course_code": "LMCX3530"
-    },
-    {
-        "matric_no": "A109476",
-        "program": "KC02",
-        "semester": "2",
-        "session": "20212022",
-        "course_code": "LMCX1195"
-    },
-    {
-        "matric_no": "A109476",
-        "program": "KC02",
-        "semester": "2",
-        "session": "20202021",
-        "course_code": "LMCX1631"
-    },
-    {
-        "matric_no": "A109476",
-        "program": "KC02",
-        "semester": "1",
-        "session": "20192020",
-        "course_code": "LMCX2565"
-    },
-    {
-        "matric_no": "A136410",
-        "program": "KA04",
-        "semester": "2",
-        "session": "20182019",
-        "course_code": "LMCR2482"
-    },
-    {
-        "matric_no": "A136410",
-        "program": "KA04",
-        "semester": "1",
-        "session": "20182019",
-        "course_code": "LMCX2083"
-    },
-    {
-        "matric_no": "A136410",
-        "program": "KA04",
-        "semester": "1",
-        "session": "20212022",
-        "course_code": "LMCX1843"
-    },
-    {
-        "matric_no": "A111679",
-        "program": "FE01",
-        "semester": "2",
-        "session": "20192020",
-        "course_code": "LMCX2083"
-    },
-    {
-        "matric_no": "A111679",
-        "program": "FE01",
-        "semester": "2",
-        "session": "20192020",
-        "course_code": "LMCX1195"
-    },
-    {
-        "matric_no": "A111679",
-        "program": "FE01",
-        "semester": "2",
-        "session": "20192020",
-        "course_code": "LMCX2088"
-    },
-    {
-        "matric_no": "A117334",
-        "program": "FE03",
-        "semester": "1",
-        "session": "20182019",
-        "course_code": "LMCX1195"
-    },
-    {
-        "matric_no": "A117334",
+        "matric_no": "A131084",
         "program": "FE03",
         "semester": "2",
         "session": "20182019",
-        "course_code": "LMCX1195"
+        "course_code": "LMCA1432"
     },
     {
-        "matric_no": "A117334",
+        "matric_no": "A131084",
+        "program": "FE03",
+        "semester": "1",
+        "session": "20202021",
+        "course_code": "LMCB1432"
+    },
+    {
+        "matric_no": "A170509",
+        "program": "ST03",
+        "semester": "1",
+        "session": "20182019",
+        "course_code": "LMCB1432"
+    },
+    {
+        "matric_no": "A170509",
+        "program": "ST03",
+        "semester": "1",
+        "session": "20212022",
+        "course_code": "LMCB1412"
+    },
+    {
+        "matric_no": "A129268",
+        "program": "KC04",
+        "semester": "1",
+        "session": "20212022",
+        "course_code": "LMCA1402"
+    },
+    {
+        "matric_no": "A129268",
+        "program": "KC04",
+        "semester": "1",
+        "session": "20192020",
+        "course_code": "LMCB1432"
+    },
+    {
+        "matric_no": "A125975",
+        "program": "KA04",
+        "semester": "2",
+        "session": "20192020",
+        "course_code": "LMCB1432"
+    },
+    {
+        "matric_no": "A125975",
+        "program": "KA04",
+        "semester": "1",
+        "session": "20182019",
+        "course_code": "LMCA1432"
+    },
+    {
+        "matric_no": "A158983",
+        "program": "KA01",
+        "semester": "2",
+        "session": "20192020",
+        "course_code": "LMCB1432"
+    },
+    {
+        "matric_no": "A158983",
+        "program": "KA01",
+        "semester": "1",
+        "session": "20192020",
+        "course_code": "LMCA1442"
+    },
+    {
+        "matric_no": "A139265",
+        "program": "ST03",
+        "semester": "2",
+        "session": "20192020",
+        "course_code": "LMCA1442"
+    },
+    {
+        "matric_no": "A139265",
+        "program": "ST03",
+        "semester": "2",
+        "session": "20182019",
+        "course_code": "LMCB1412"
+    },
+    {
+        "matric_no": "A140587",
+        "program": "ST04",
+        "semester": "1",
+        "session": "20202021",
+        "course_code": "LMCA1442"
+    },
+    {
+        "matric_no": "A140587",
+        "program": "ST04",
+        "semester": "1",
+        "session": "20212022",
+        "course_code": "LMCA1432"
+    },
+    {
+        "matric_no": "A138574",
+        "program": "KC03",
+        "semester": "2",
+        "session": "20182019",
+        "course_code": "LMCA1442"
+    },
+    {
+        "matric_no": "A138574",
+        "program": "KC03",
+        "semester": "2",
+        "session": "20192020",
+        "course_code": "LMCA1442"
+    },
+    {
+        "matric_no": "A145009",
+        "program": "KA01",
+        "semester": "2",
+        "session": "20182019",
+        "course_code": "LMCB1412"
+    },
+    {
+        "matric_no": "A145009",
+        "program": "KA01",
+        "semester": "1",
+        "session": "20202021",
+        "course_code": "LMCA1402"
+    },
+    {
+        "matric_no": "A190721",
+        "program": "KC03",
+        "semester": "1",
+        "session": "20202021",
+        "course_code": "LMCA1432"
+    },
+    {
+        "matric_no": "A190721",
+        "program": "KC03",
+        "semester": "1",
+        "session": "20202021",
+        "course_code": "LMCA1402"
+    },
+    {
+        "matric_no": "A191129",
+        "program": "KA04",
+        "semester": "2",
+        "session": "20182019",
+        "course_code": "LMCA1432"
+    },
+    {
+        "matric_no": "A191129",
+        "program": "KA04",
+        "semester": "2",
+        "session": "20192020",
+        "course_code": "LMCB1412"
+    },
+    {
+        "matric_no": "A176556",
+        "program": "FE04",
+        "semester": "1",
+        "session": "20192020",
+        "course_code": "LMCA1402"
+    },
+    {
+        "matric_no": "A176556",
+        "program": "FE04",
+        "semester": "2",
+        "session": "20192020",
+        "course_code": "LMCA1442"
+    },
+    {
+        "matric_no": "A121905",
+        "program": "KC02",
+        "semester": "1",
+        "session": "20202021",
+        "course_code": "LMCB1432"
+    },
+    {
+        "matric_no": "A121905",
+        "program": "KC02",
+        "semester": "1",
+        "session": "20192020",
+        "course_code": "LMCB1432"
+    },
+    {
+        "matric_no": "A107087",
+        "program": "ST02",
+        "semester": "2",
+        "session": "20202021",
+        "course_code": "LMCA1402"
+    },
+    {
+        "matric_no": "A107087",
+        "program": "ST02",
+        "semester": "1",
+        "session": "20182019",
+        "course_code": "LMCA1402"
+    },
+    {
+        "matric_no": "A126105",
+        "program": "KC01",
+        "semester": "1",
+        "session": "20212022",
+        "course_code": "LMCA1402"
+    },
+    {
+        "matric_no": "A126105",
+        "program": "KC01",
+        "semester": "1",
+        "session": "20212022",
+        "course_code": "LMCB1412"
+    },
+    {
+        "matric_no": "A114585",
+        "program": "KA04",
+        "semester": "2",
+        "session": "20212022",
+        "course_code": "LMCA1442"
+    },
+    {
+        "matric_no": "A114585",
+        "program": "KA04",
+        "semester": "1",
+        "session": "20192020",
+        "course_code": "LMCB1412"
+    },
+    {
+        "matric_no": "A152351",
+        "program": "KA01",
+        "semester": "2",
+        "session": "20212022",
+        "course_code": "LMCA1432"
+    },
+    {
+        "matric_no": "A152351",
+        "program": "KA01",
+        "semester": "2",
+        "session": "20192020",
+        "course_code": "LMCB1432"
+    },
+    {
+        "matric_no": "A100397",
+        "program": "ST02",
+        "semester": "1",
+        "session": "20192020",
+        "course_code": "LMCA1442"
+    },
+    {
+        "matric_no": "A100397",
+        "program": "ST02",
+        "semester": "1",
+        "session": "20212022",
+        "course_code": "LMCB1432"
+    },
+    {
+        "matric_no": "A189083",
+        "program": "ST01",
+        "semester": "1",
+        "session": "20192020",
+        "course_code": "LMCB1412"
+    },
+    {
+        "matric_no": "A189083",
+        "program": "ST01",
+        "semester": "1",
+        "session": "20192020",
+        "course_code": "LMCA1442"
+    },
+    {
+        "matric_no": "A155108",
+        "program": "ST02",
+        "semester": "2",
+        "session": "20212022",
+        "course_code": "LMCA1402"
+    },
+    {
+        "matric_no": "A155108",
+        "program": "ST02",
+        "semester": "1",
+        "session": "20192020",
+        "course_code": "LMCA1442"
+    },
+    {
+        "matric_no": "A162402",
+        "program": "ST03",
+        "semester": "2",
+        "session": "20192020",
+        "course_code": "LMCA1402"
+    },
+    {
+        "matric_no": "A162402",
+        "program": "ST03",
+        "semester": "2",
+        "session": "20202021",
+        "course_code": "LMCA1432"
+    },
+    {
+        "matric_no": "A143099",
+        "program": "KC03",
+        "semester": "2",
+        "session": "20202021",
+        "course_code": "LMCA1402"
+    },
+    {
+        "matric_no": "A143099",
+        "program": "KC03",
+        "semester": "1",
+        "session": "20202021",
+        "course_code": "LMCA1442"
+    },
+    {
+        "matric_no": "A105375",
+        "program": "FE04",
+        "semester": "1",
+        "session": "20182019",
+        "course_code": "LMCB1412"
+    },
+    {
+        "matric_no": "A105375",
+        "program": "FE04",
+        "semester": "2",
+        "session": "20182019",
+        "course_code": "LMCB1432"
+    },
+    {
+        "matric_no": "A165355",
+        "program": "KA03",
+        "semester": "2",
+        "session": "20202021",
+        "course_code": "LMCB1432"
+    },
+    {
+        "matric_no": "A165355",
+        "program": "KA03",
+        "semester": "1",
+        "session": "20182019",
+        "course_code": "LMCB1412"
+    },
+    {
+        "matric_no": "A173870",
+        "program": "FE04",
+        "semester": "1",
+        "session": "20212022",
+        "course_code": "LMCA1402"
+    },
+    {
+        "matric_no": "A173870",
+        "program": "FE04",
+        "semester": "2",
+        "session": "20202021",
+        "course_code": "LMCA1442"
+    },
+    {
+        "matric_no": "A183288",
+        "program": "KC04",
+        "semester": "1",
+        "session": "20202021",
+        "course_code": "LMCB1432"
+    },
+    {
+        "matric_no": "A183288",
+        "program": "KC04",
+        "semester": "1",
+        "session": "20182019",
+        "course_code": "LMCB1412"
+    },
+    {
+        "matric_no": "A102668",
+        "program": "FE02",
+        "semester": "2",
+        "session": "20212022",
+        "course_code": "LMCA1442"
+    },
+    {
+        "matric_no": "A102668",
+        "program": "FE02",
+        "semester": "1",
+        "session": "20192020",
+        "course_code": "LMCA1432"
+    },
+    {
+        "matric_no": "A148260",
+        "program": "FE01",
+        "semester": "1",
+        "session": "20182019",
+        "course_code": "LMCA1432"
+    },
+    {
+        "matric_no": "A148260",
+        "program": "FE01",
+        "semester": "1",
+        "session": "20212022",
+        "course_code": "LMCB1432"
+    },
+    {
+        "matric_no": "A109535",
+        "program": "KC01",
+        "semester": "2",
+        "session": "20212022",
+        "course_code": "LMCA1442"
+    },
+    {
+        "matric_no": "A109535",
+        "program": "KC01",
+        "semester": "1",
+        "session": "20182019",
+        "course_code": "LMCA1442"
+    },
+    {
+        "matric_no": "A199541",
+        "program": "KC03",
+        "semester": "1",
+        "session": "20182019",
+        "course_code": "LMCA1432"
+    },
+    {
+        "matric_no": "A199541",
+        "program": "KC03",
+        "semester": "1",
+        "session": "20182019",
+        "course_code": "LMCB1412"
+    },
+    {
+        "matric_no": "A198103",
+        "program": "ST04",
+        "semester": "2",
+        "session": "20182019",
+        "course_code": "LMCA1402"
+    },
+    {
+        "matric_no": "A198103",
+        "program": "ST04",
+        "semester": "1",
+        "session": "20192020",
+        "course_code": "LMFF1622"
+    },
+    {
+        "matric_no": "A181778",
+        "program": "ST03",
+        "semester": "1",
+        "session": "20212022",
+        "course_code": "LMCA1442"
+    },
+    {
+        "matric_no": "A181778",
+        "program": "ST03",
+        "semester": "2",
+        "session": "20192020",
+        "course_code": "LMCB1432"
+    },
+    {
+        "matric_no": "A190232",
+        "program": "KC03",
+        "semester": "1",
+        "session": "20212022",
+        "course_code": "LMCB1412"
+    },
+    {
+        "matric_no": "A190232",
+        "program": "KC03",
+        "semester": "1",
+        "session": "20202021",
+        "course_code": "LMCB1412"
+    },
+    {
+        "matric_no": "A163866",
+        "program": "KA03",
+        "semester": "1",
+        "session": "20212022",
+        "course_code": "LMCB1412"
+    },
+    {
+        "matric_no": "A163866",
+        "program": "KA03",
+        "semester": "1",
+        "session": "20202021",
+        "course_code": "LMCB1412"
+    },
+    {
+        "matric_no": "A197441",
+        "program": "KA02",
+        "semester": "1",
+        "session": "20182019",
+        "course_code": "LMCA1402"
+    },
+    {
+        "matric_no": "A197441",
+        "program": "KA02",
+        "semester": "1",
+        "session": "20202021",
+        "course_code": "LMCB1432"
+    },
+    {
+        "matric_no": "A179586",
+        "program": "KA01",
+        "semester": "1",
+        "session": "20212022",
+        "course_code": "LMCA1442"
+    },
+    {
+        "matric_no": "A179586",
+        "program": "KA01",
+        "semester": "1",
+        "session": "20212022",
+        "course_code": "LMCR1562"
+    },
+    {
+        "matric_no": "A192706",
+        "program": "ST03",
+        "semester": "1",
+        "session": "20212022",
+        "course_code": "LMCZ1112"
+    },
+    {
+        "matric_no": "A192706",
+        "program": "ST03",
+        "semester": "1",
+        "session": "20202021",
+        "course_code": "LMCB1412"
+    },
+    {
+        "matric_no": "A129571",
+        "program": "ST02",
+        "semester": "1",
+        "session": "20212022",
+        "course_code": "LMJS1512"
+    },
+    {
+        "matric_no": "A129571",
+        "program": "ST02",
+        "semester": "2",
+        "session": "20192020",
+        "course_code": "LMCA1442"
+    },
+    {
+        "matric_no": "A129910",
+        "program": "ST04",
+        "semester": "1",
+        "session": "20182019",
+        "course_code": "LMCA1442"
+    },
+    {
+        "matric_no": "A129910",
+        "program": "ST04",
+        "semester": "2",
+        "session": "20192020",
+        "course_code": "LMCA1442"
+    },
+    {
+        "matric_no": "A187675",
+        "program": "FE04",
+        "semester": "1",
+        "session": "20212022",
+        "course_code": "LMCB1432"
+    },
+    {
+        "matric_no": "A187675",
+        "program": "FE04",
+        "semester": "2",
+        "session": "20202021",
+        "course_code": "LMCA1402"
+    },
+    {
+        "matric_no": "A150910",
+        "program": "ST03",
+        "semester": "2",
+        "session": "20202021",
+        "course_code": "LMCA1402"
+    },
+    {
+        "matric_no": "A150910",
+        "program": "ST03",
+        "semester": "2",
+        "session": "20212022",
+        "course_code": "LMCZ3722"
+    },
+    {
+        "matric_no": "A136912",
+        "program": "FE02",
+        "semester": "1",
+        "session": "20212022",
+        "course_code": "LMCB1412"
+    },
+    {
+        "matric_no": "A136912",
+        "program": "FE02",
+        "semester": "2",
+        "session": "20202021",
+        "course_code": "LMCA1442"
+    },
+    {
+        "matric_no": "A110229",
+        "program": "ST01",
+        "semester": "2",
+        "session": "20212022",
+        "course_code": "LMCB1412"
+    },
+    {
+        "matric_no": "A110229",
+        "program": "ST01",
+        "semester": "2",
+        "session": "20182019",
+        "course_code": "LMEP1422"
+    },
+    {
+        "matric_no": "A197683",
+        "program": "FE03",
+        "semester": "1",
+        "session": "20182019",
+        "course_code": "LMCA1442"
+    },
+    {
+        "matric_no": "A197683",
         "program": "FE03",
         "semester": "2",
         "session": "20212022",
-        "course_code": "LMCX1195"
+        "course_code": "LMCB1412"
+    },
+    {
+        "matric_no": "A142670",
+        "program": "FE01",
+        "semester": "2",
+        "session": "20182019",
+        "course_code": "LMPP1112"
+    },
+    {
+        "matric_no": "A142670",
+        "program": "FE01",
+        "semester": "1",
+        "session": "20192020",
+        "course_code": "LMOO1232"
+    },
+    {
+        "matric_no": "A125520",
+        "program": "ST01",
+        "semester": "1",
+        "session": "20212022",
+        "course_code": "LMCX2799"
+    },
+    {
+        "matric_no": "A125520",
+        "program": "ST01",
+        "semester": "1",
+        "session": "20202021",
+        "course_code": "LMCR2202"
+    },
+    {
+        "matric_no": "A142233",
+        "program": "FE03",
+        "semester": "2",
+        "session": "20212022",
+        "course_code": "LMCB1432"
+    },
+    {
+        "matric_no": "A142233",
+        "program": "FE03",
+        "semester": "1",
+        "session": "20212022",
+        "course_code": "LMCB1412"
+    },
+    {
+        "matric_no": "A177509",
+        "program": "KA01",
+        "semester": "2",
+        "session": "20182019",
+        "course_code": "LMCA1442"
+    },
+    {
+        "matric_no": "A177509",
+        "program": "KA01",
+        "semester": "2",
+        "session": "20182019",
+        "course_code": "LMCZ4212"
+    },
+    {
+        "matric_no": "A193393",
+        "program": "ST01",
+        "semester": "2",
+        "session": "20212022",
+        "course_code": "LMCR1462"
+    },
+    {
+        "matric_no": "A193393",
+        "program": "ST01",
+        "semester": "1",
+        "session": "20182019",
+        "course_code": "LMTT2683"
+    },
+    {
+        "matric_no": "A133045",
+        "program": "ST02",
+        "semester": "2",
+        "session": "20192020",
+        "course_code": "LMCB1432"
+    },
+    {
+        "matric_no": "A133045",
+        "program": "ST02",
+        "semester": "1",
+        "session": "20202021",
+        "course_code": "LMCR1562"
+    },
+    {
+        "matric_no": "A132147",
+        "program": "KA03",
+        "semester": "1",
+        "session": "20192020",
+        "course_code": "LMCR1142"
+    },
+    {
+        "matric_no": "A132147",
+        "program": "KA03",
+        "semester": "2",
+        "session": "20182019",
+        "course_code": "LMCR1192"
+    },
+    {
+        "matric_no": "A169607",
+        "program": "ST03",
+        "semester": "1",
+        "session": "20202021",
+        "course_code": "LMCB1412"
+    },
+    {
+        "matric_no": "A169607",
+        "program": "ST03",
+        "semester": "1",
+        "session": "20212022",
+        "course_code": "LMTT2723"
+    },
+    {
+        "matric_no": "A139579",
+        "program": "KC03",
+        "semester": "1",
+        "session": "20202021",
+        "course_code": "LMCA1442"
+    },
+    {
+        "matric_no": "A139579",
+        "program": "KC03",
+        "semester": "1",
+        "session": "20182019",
+        "course_code": "LMCA1442"
+    },
+    {
+        "matric_no": "A167156",
+        "program": "FE01",
+        "semester": "2",
+        "session": "20192020",
+        "course_code": "LMCB1412"
+    },
+    {
+        "matric_no": "A167156",
+        "program": "FE01",
+        "semester": "1",
+        "session": "20182019",
+        "course_code": "LMCA1442"
+    },
+    {
+        "matric_no": "A121148",
+        "program": "KA03",
+        "semester": "1",
+        "session": "20212022",
+        "course_code": "LMNN1402"
+    },
+    {
+        "matric_no": "A121148",
+        "program": "KA03",
+        "semester": "1",
+        "session": "20212022",
+        "course_code": "LMCB1432"
+    },
+    {
+        "matric_no": "A171073",
+        "program": "KC01",
+        "semester": "1",
+        "session": "20192020",
+        "course_code": "LMCR2522"
+    },
+    {
+        "matric_no": "A171073",
+        "program": "KC01",
+        "semester": "1",
+        "session": "20192020",
+        "course_code": "LMCR1652"
+    },
+    {
+        "matric_no": "A142084",
+        "program": "KA01",
+        "semester": "2",
+        "session": "20202021",
+        "course_code": "LMCR2523"
+    },
+    {
+        "matric_no": "A142084",
+        "program": "KA01",
+        "semester": "2",
+        "session": "20212022",
+        "course_code": "LMCB1412"
+    },
+    {
+        "matric_no": "A149681",
+        "program": "ST02",
+        "semester": "2",
+        "session": "20212022",
+        "course_code": "LMCA1442"
+    },
+    {
+        "matric_no": "A149681",
+        "program": "ST02",
+        "semester": "2",
+        "session": "20212022",
+        "course_code": "LMOO1222"
+    },
+    {
+        "matric_no": "A139037",
+        "program": "FE04",
+        "semester": "2",
+        "session": "20192020",
+        "course_code": "LMCB1432"
+    },
+    {
+        "matric_no": "A139037",
+        "program": "FE04",
+        "semester": "2",
+        "session": "20212022",
+        "course_code": "LMCR2342"
+    },
+    {
+        "matric_no": "A110058",
+        "program": "KA04",
+        "semester": "2",
+        "session": "20202021",
+        "course_code": "LMCA1442"
+    },
+    {
+        "matric_no": "A110058",
+        "program": "KA04",
+        "semester": "1",
+        "session": "20182019",
+        "course_code": "LMCA1442"
+    },
+    {
+        "matric_no": "A198545",
+        "program": "KA01",
+        "semester": "2",
+        "session": "20212022",
+        "course_code": "LMCB1412"
+    },
+    {
+        "matric_no": "A198545",
+        "program": "KA01",
+        "semester": "2",
+        "session": "20192020",
+        "course_code": "LMCR3722"
+    },
+    {
+        "matric_no": "A178425",
+        "program": "FE01",
+        "semester": "2",
+        "session": "20182019",
+        "course_code": "LMCR3412"
+    },
+    {
+        "matric_no": "A178425",
+        "program": "FE01",
+        "semester": "2",
+        "session": "20202021",
+        "course_code": "LMCP1352"
+    },
+    {
+        "matric_no": "A117728",
+        "program": "KA01",
+        "semester": "1",
+        "session": "20192020",
+        "course_code": "LMCA1442"
+    },
+    {
+        "matric_no": "A117728",
+        "program": "KA01",
+        "semester": "2",
+        "session": "20202021",
+        "course_code": "LMCB1432"
+    },
+    {
+        "matric_no": "A134702",
+        "program": "KC04",
+        "semester": "2",
+        "session": "20182019",
+        "course_code": "LMTT1913"
+    },
+    {
+        "matric_no": "A134702",
+        "program": "KC04",
+        "semester": "2",
+        "session": "20202021",
+        "course_code": "LMCA1442"
+    },
+    {
+        "matric_no": "A168053",
+        "program": "ST01",
+        "semester": "1",
+        "session": "20182019",
+        "course_code": "LMCR3253"
+    },
+    {
+        "matric_no": "A168053",
+        "program": "ST01",
+        "semester": "2",
+        "session": "20212022",
+        "course_code": "LMCA1442"
+    },
+    {
+        "matric_no": "A190303",
+        "program": "FE02",
+        "semester": "1",
+        "session": "20182019",
+        "course_code": "LMCB1432"
+    },
+    {
+        "matric_no": "A190303",
+        "program": "FE02",
+        "semester": "1",
+        "session": "20192020",
+        "course_code": "LMCB1412"
+    },
+    {
+        "matric_no": "A110165",
+        "program": "FE02",
+        "semester": "2",
+        "session": "20192020",
+        "course_code": "LMTT2553"
+    },
+    {
+        "matric_no": "A110165",
+        "program": "FE02",
+        "semester": "1",
+        "session": "20212022",
+        "course_code": "LMCA1442"
+    },
+    {
+        "matric_no": "A105520",
+        "program": "KC01",
+        "semester": "2",
+        "session": "20212022",
+        "course_code": "LMCB1412"
+    },
+    {
+        "matric_no": "A105520",
+        "program": "KC01",
+        "semester": "2",
+        "session": "20212022",
+        "course_code": "LMCX3336"
+    },
+    {
+        "matric_no": "A168661",
+        "program": "KC02",
+        "semester": "2",
+        "session": "20202021",
+        "course_code": "LMCA1442"
+    },
+    {
+        "matric_no": "A168661",
+        "program": "KC02",
+        "semester": "1",
+        "session": "20212022",
+        "course_code": "LMCR2332"
+    },
+    {
+        "matric_no": "A108060",
+        "program": "ST02",
+        "semester": "1",
+        "session": "20182019",
+        "course_code": "LMCX2200"
+    },
+    {
+        "matric_no": "A108060",
+        "program": "ST02",
+        "semester": "1",
+        "session": "20192020",
+        "course_code": "LMCB1432"
+    },
+    {
+        "matric_no": "A126628",
+        "program": "ST01",
+        "semester": "2",
+        "session": "20192020",
+        "course_code": "LMOO1212"
+    },
+    {
+        "matric_no": "A126628",
+        "program": "ST01",
+        "semester": "1",
+        "session": "20182019",
+        "course_code": "LMGG1412"
+    },
+    {
+        "matric_no": "A177477",
+        "program": "FE01",
+        "semester": "2",
+        "session": "20212022",
+        "course_code": "LMCS2692"
+    },
+    {
+        "matric_no": "A177477",
+        "program": "FE01",
+        "semester": "2",
+        "session": "20192020",
+        "course_code": "LMGG1422"
+    },
+    {
+        "matric_no": "A180774",
+        "program": "ST02",
+        "semester": "1",
+        "session": "20212022",
+        "course_code": "LMCB1432"
+    },
+    {
+        "matric_no": "A180774",
+        "program": "ST02",
+        "semester": "1",
+        "session": "20182019",
+        "course_code": "LMOO1232"
+    },
+    {
+        "matric_no": "A166257",
+        "program": "ST04",
+        "semester": "2",
+        "session": "20212022",
+        "course_code": "LMCB1432"
+    },
+    {
+        "matric_no": "A166257",
+        "program": "ST04",
+        "semester": "1",
+        "session": "20202021",
+        "course_code": "LMCX3336"
+    },
+    {
+        "matric_no": "A184484",
+        "program": "FE03",
+        "semester": "1",
+        "session": "20182019",
+        "course_code": "LMCB1412"
+    },
+    {
+        "matric_no": "A184484",
+        "program": "FE03",
+        "semester": "1",
+        "session": "20192020",
+        "course_code": "LMCB1432"
+    },
+    {
+        "matric_no": "A104711",
+        "program": "ST03",
+        "semester": "2",
+        "session": "20182019",
+        "course_code": "LMCP1352"
+    },
+    {
+        "matric_no": "A104711",
+        "program": "ST03",
+        "semester": "2",
+        "session": "20202021",
+        "course_code": "LMCB1412"
+    },
+    {
+        "matric_no": "A182139",
+        "program": "KA02",
+        "semester": "2",
+        "session": "20212022",
+        "course_code": "LMCB1432"
+    },
+    {
+        "matric_no": "A182139",
+        "program": "KA02",
+        "semester": "1",
+        "session": "20182019",
+        "course_code": "LMCR2472"
+    },
+    {
+        "matric_no": "A155947",
+        "program": "KC01",
+        "semester": "1",
+        "session": "20182019",
+        "course_code": "LMCP1342"
+    },
+    {
+        "matric_no": "A155947",
+        "program": "KC01",
+        "semester": "1",
+        "session": "20212022",
+        "course_code": "LMCR2372"
+    },
+    {
+        "matric_no": "A104392",
+        "program": "KC01",
+        "semester": "1",
+        "session": "20202021",
+        "course_code": "LMCP1412"
+    },
+    {
+        "matric_no": "A104392",
+        "program": "KC01",
+        "semester": "1",
+        "session": "20192020",
+        "course_code": "LMCR1212"
+    },
+    {
+        "matric_no": "A108071",
+        "program": "KC03",
+        "semester": "1",
+        "session": "20182019",
+        "course_code": "LMCB1432"
+    },
+    {
+        "matric_no": "A108071",
+        "program": "KC03",
+        "semester": "1",
+        "session": "20192020",
+        "course_code": "LMSK1612"
+    },
+    {
+        "matric_no": "A148843",
+        "program": "ST03",
+        "semester": "1",
+        "session": "20212022",
+        "course_code": "LMCB1412"
+    },
+    {
+        "matric_no": "A148843",
+        "program": "ST03",
+        "semester": "2",
+        "session": "20202021",
+        "course_code": "LMCB1432"
+    },
+    {
+        "matric_no": "A140115",
+        "program": "ST02",
+        "semester": "1",
+        "session": "20192020",
+        "course_code": "LMCR1252"
+    },
+    {
+        "matric_no": "A140115",
+        "program": "ST02",
+        "semester": "1",
+        "session": "20202021",
+        "course_code": "LMCR2192"
+    },
+    {
+        "matric_no": "A172461",
+        "program": "ST04",
+        "semester": "1",
+        "session": "20212022",
+        "course_code": "LMCB1412"
+    },
+    {
+        "matric_no": "A172461",
+        "program": "ST04",
+        "semester": "1",
+        "session": "20212022",
+        "course_code": "LMCR1262"
+    },
+    {
+        "matric_no": "A140998",
+        "program": "FE02",
+        "semester": "1",
+        "session": "20202021",
+        "course_code": "LMCR3212"
+    },
+    {
+        "matric_no": "A140998",
+        "program": "FE02",
+        "semester": "1",
+        "session": "20192020",
+        "course_code": "LMCX3008"
+    },
+    {
+        "matric_no": "A159755",
+        "program": "FE01",
+        "semester": "1",
+        "session": "20192020",
+        "course_code": "LMCB1432"
+    },
+    {
+        "matric_no": "A159755",
+        "program": "FE01",
+        "semester": "2",
+        "session": "20212022",
+        "course_code": "LMCR3342"
+    },
+    {
+        "matric_no": "A151677",
+        "program": "KA04",
+        "semester": "1",
+        "session": "20192020",
+        "course_code": "LMCX3370"
+    },
+    {
+        "matric_no": "A151677",
+        "program": "KA04",
+        "semester": "1",
+        "session": "20212022",
+        "course_code": "LMCB1432"
+    },
+    {
+        "matric_no": "A188875",
+        "program": "KA04",
+        "semester": "2",
+        "session": "20202021",
+        "course_code": "LMCB1432"
+    },
+    {
+        "matric_no": "A188875",
+        "program": "KA04",
+        "semester": "1",
+        "session": "20182019",
+        "course_code": "LMCB1432"
+    },
+    {
+        "matric_no": "A176634",
+        "program": "FE01",
+        "semester": "2",
+        "session": "20212022",
+        "course_code": "LMCR2472"
+    },
+    {
+        "matric_no": "A176634",
+        "program": "FE01",
+        "semester": "1",
+        "session": "20182019",
+        "course_code": "LMCK1621"
+    },
+    {
+        "matric_no": "A169808",
+        "program": "FE02",
+        "semester": "2",
+        "session": "20192020",
+        "course_code": "LMCB3632"
+    },
+    {
+        "matric_no": "A169808",
+        "program": "FE02",
+        "semester": "1",
+        "session": "20212022",
+        "course_code": "LMCB1412"
+    },
+    {
+        "matric_no": "A134478",
+        "program": "FE02",
+        "semester": "2",
+        "session": "20202021",
+        "course_code": "LMCB1432"
+    },
+    {
+        "matric_no": "A134478",
+        "program": "FE02",
+        "semester": "1",
+        "session": "20202021",
+        "course_code": "LMCR1472"
+    },
+    {
+        "matric_no": "A106755",
+        "program": "ST01",
+        "semester": "1",
+        "session": "20212022",
+        "course_code": "LMCB1412"
+    },
+    {
+        "matric_no": "A106755",
+        "program": "ST01",
+        "semester": "2",
+        "session": "20182019",
+        "course_code": "LMCR1312"
+    },
+    {
+        "matric_no": "A188071",
+        "program": "KA03",
+        "semester": "1",
+        "session": "20192020",
+        "course_code": "LMCB1432"
+    },
+    {
+        "matric_no": "A188071",
+        "program": "KA03",
+        "semester": "1",
+        "session": "20202021",
+        "course_code": "LMCB1432"
+    },
+    {
+        "matric_no": "A184783",
+        "program": "ST01",
+        "semester": "2",
+        "session": "20192020",
+        "course_code": "LMCR3232"
+    },
+    {
+        "matric_no": "A184783",
+        "program": "ST01",
+        "semester": "1",
+        "session": "20202021",
+        "course_code": "LMCZ2412"
+    },
+    {
+        "matric_no": "A111416",
+        "program": "KC02",
+        "semester": "1",
+        "session": "20202021",
+        "course_code": "LMCR2372"
+    },
+    {
+        "matric_no": "A111416",
+        "program": "KC02",
+        "semester": "2",
+        "session": "20182019",
+        "course_code": "LMCZ3622"
+    },
+    {
+        "matric_no": "A151587",
+        "program": "KC02",
+        "semester": "2",
+        "session": "20192020",
+        "course_code": "LMCS3602"
+    },
+    {
+        "matric_no": "A151587",
+        "program": "KC02",
+        "semester": "2",
+        "session": "20182019",
+        "course_code": "LMJJ1502"
+    },
+    {
+        "matric_no": "A186433",
+        "program": "FE04",
+        "semester": "2",
+        "session": "20182019",
+        "course_code": "LMCB1432"
+    },
+    {
+        "matric_no": "A186433",
+        "program": "FE04",
+        "semester": "1",
+        "session": "20182019",
+        "course_code": "LMCB1432"
+    },
+    {
+        "matric_no": "A123",
+        "program": "KC04",
+        "semester": "1",
+        "session": "20212022",
+        "course_code": "LMCA1412"
+    },
+    {
+        "matric_no": "A1234",
+        "program": "KA03",
+        "semester": "1",
+        "session": "20212022",
+        "course_code": "LMCA1422"
+    },
+    {
+        "matric_no": "A1234",
+        "program": "KA03",
+        "semester": "1",
+        "session": "20212022",
+        "course_code": "LMCA1432"
+    },
+    {
+        "matric_no": "A1234",
+        "program": "KA03",
+        "semester": "1",
+        "session": "20212022",
+        "course_code": "LMCA1402"
+    },
+    {
+        "matric_no": "A1234",
+        "program": "KA03",
+        "semester": "1",
+        "session": "20212022",
+        "course_code": "LMCA1442"
+    },
+    {
+        "matric_no": "A123",
+        "program": "KC04",
+        "semester": "1",
+        "session": "20212022",
+        "course_code": "LMCA1422"
+    },
+    {
+        "matric_no": "A123",
+        "program": "KC04",
+        "semester": "1",
+        "session": "20212022",
+        "course_code": "LMCA1442"
+    },
+    {
+        "matric_no": "A123",
+        "program": "KC04",
+        "semester": "1",
+        "session": "20212022",
+        "course_code": "LMZF1502"
+    },
+    {
+        "matric_no": "A100397",
+        "program": "ST02",
+        "semester": "1",
+        "session": "20212022",
+        "course_code": "LMCA1402"
+    },
+    {
+        "matric_no": "A100397",
+        "program": "ST02",
+        "semester": "1",
+        "session": "20212022",
+        "course_code": "LMCA1412"
     }
 ]
